@@ -2,7 +2,7 @@
 
 ## 1. What issues did the static analysis tools identify?
 
-Pylint identified code-quality issues such as inconsistent naming, missing docstrings, a mutable default argument, and an unused parameter. Flake8 identified formatting violations, including missing whitespace and blank-line problems. Bandit identified potentially unsafe shell execution, pickle deserialization, and the use of a standard random generator.
+Pylint identified code-quality issues such as wrong naming, missing docstrings, a mutable default argument, and an unused parameter. Flake8 identified formatting errors, including missing whitespaces and blank-line problems. Bandit identified potentially unsafe shell execution, pickle deserialization, and use of a standard random generator.
 
 ## 2. Which issue was the most serious, and why?
 

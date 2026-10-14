@@ -1,4 +1,4 @@
-# Code Analysis Issues
+# Issue in Code
 
 | Issue | Type | Line(s) | Description | Fix Approach |
 |---|---|---|---|---|
